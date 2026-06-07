@@ -2,6 +2,35 @@
 
 ---
 
+## [2026-06-07] ingest | 光通信批次 3 · 6/02-6/04 共 8 篇（20-27/41）
+
+### 工作概览
+批次 3：6/02 TPU+面板厂玻璃 / 6/03 Computex/AI 设备/CoPoS/老化测试/Coherent FAU / 6/04 Coherent MMC DCI。
+
+### 新增 sources（8 个）
+- [[摘要-tpu-v8-ocs-coherent-2026-06-02]]
+- [[摘要-panel-maker-glass-package-2026-06-02]]
+- [[摘要-computex-2026-agentic-ai-systems-2026-06-03]]
+- [[摘要-ai-equipment-domestic-substitution-2026-06-03]]
+- [[摘要-copos-glass-substrate-2026-catalyst-2026-06-03]]
+- [[摘要-optical-chip-burnin-test-equipment-2026-06-03]]
+- [[摘要-coherent-fau-elsfp-cw-dfau-2026-06-03]]
+- [[摘要-coherent-fau-mmc-dci-2026-06-04]]
+
+### 新增 concepts（1 个）
+- [[ELSFP]] — CPO/NPO 外置光源前面板模块
+
+### index.md 新增
+"光通信 TGV 玻璃基板与系统级" 二级分类
+
+### 归档
+8 篇 → `raw/09-archive/光通信/`（累计 27）
+
+### 进度
+27/41，剩余 14 篇（6/04-6/07）
+
+---
+
 ## [2026-06-07] ingest | 光通信批次 2 · 6/01 剩余+6/02 共 10 篇（10-19/41）
 
 ### 工作概览

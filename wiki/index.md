@@ -100,6 +100,16 @@
 - [[摘要-source-photonics-suss-meta-cw-2026-06-01]] — 索尔思视角 800G/1.6T/CW/EML + Meta/Coherent/AWS
 - [[摘要-eml-200g-ramp-coherent-2026-06-01]] — 索尔思 100G/200G EML 扩产 + Coherent 审厂
 - [[摘要-dci-scale-across-coherent-2026-06-02]] — Ciena 视角 DCI Scale-across 元年 + 1:1:1 + ITLA/DSP/隔离器瓶颈
+- [[摘要-coherent-fau-elsfp-cw-dfau-2026-06-03]] — Coherent FAU 蘅东光 40%/光库 20% + 36 芯 FAU + ELSFP 40%
+- [[摘要-coherent-fau-mmc-dci-2026-06-04]] — 蘅东光视角 1.6T FAU 扩产 + MMC 替代 MPO + DCI 毛利率最高
+- [[摘要-tpu-v8-ocs-coherent-2026-06-02]] — Google TPU V7/V8T/V8I + 2.4T 相干光模块 + Full Mesh 组网
+- [[摘要-optical-chip-burnin-test-equipment-2026-06-03]] — 光芯片老化检测设备 + 国产化 25% + 多应力复合
+
+### 光通信 TGV 玻璃基板与系统级
+- [[摘要-panel-maker-glass-package-2026-06-02]] — 京东方+康宁玻璃基封装深度协同 + 三星/谷歌/英特尔玻璃路线
+- [[摘要-copos-glass-substrate-2026-catalyst-2026-06-03]] — CoPoS vs FOPLP 并行 + ABF 缺口被低估 + 联赢激光
+- [[摘要-computex-2026-agentic-ai-systems-2026-06-03]] — Computex 端云协同 + RTX Spark + Ultra Low Loss CCL 50%+
+- [[摘要-ai-equipment-domestic-substitution-2026-06-03]] — 国产替代设备早期 + 苹果折叠屏变量 + 光模块设备价值链
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
@@ -250,6 +260,7 @@
 - [[DFAU]] — NVIDIA Spectrum-X 第二代可插拔标准 + Senko/天孚/上诠
 - [[磷化铟]] — InP 衬底 + 6N 高纯磷日企卡脖子
 - [[MSAP]] — 高端 PCB 工艺；1.6T+ 必选；2026-2028 渗透 25→70%
+- [[ELSFP]] — CPO/NPO 外置光源前面板模块；1 ELSFP × 8 CW；2028 翻 3 倍
 
 ---
 
