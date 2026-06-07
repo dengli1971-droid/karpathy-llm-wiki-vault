@@ -341,6 +341,16 @@
 
 ---
 
+## MOC（Maps of Content - 作战室入口）
+
+> 作战室页：决策时**先来这里**看时间线 / 触发器 / 多空对位 / 数据缺口, 再点进 syntheses 看深度。是「档案馆」→「作战室」的关键升级 (Nick Milo / Andy Matuschak 的 MOC 范式)。
+
+- [[AI算力周期顶部作战室]] — 串联资金回路 / Rubin BOM / CSP / 材料瓶颈 / ROI 临近交卷 5 个视角的 50+ source；时间线含 6 个 trigger 节点 (其中 2027/4 CW DSCR = 最大 ROI)；多空对位含开放风险声明（当前多头数据不足）
+
+（待建：[[MOC-中国大模型与MaaS单位经济]] / [[MOC-国产替代分赛道节奏]] / [[MOC-Hyperscaler对齐图]]）
+
+---
+
 ## Syntheses（综合分析）
 
 ### 投资框架与系统性风险

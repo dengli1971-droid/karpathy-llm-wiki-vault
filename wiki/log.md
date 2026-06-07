@@ -1427,3 +1427,10 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 - **未触动 entities/**
 - **修死链**: 旧 [[5c-prompt-markdown-note-taking]] 已不存在, index.md 引用清理
 - **index.md 重组 Syntheses 段**: 分「投资框架与系统性风险」/「平台 BOM 深度拆解」/「中国光模块产业链 (4 月既有)」三个二级分类
+
+## [2026-06-08] MOC 范式引入 · AI 算力周期顶部作战室
+
+- **触发**: PM 询问"还有其他 wiki 概念可以学习的吗", 我推荐 3 个范式级补 (MOC / Decision Journal / GraphRAG), PM 选 MOC 优先动手
+- **新增**: [[AI算力周期顶部作战室]] (wiki/moc/) — 50+ source / 6 时间线节点 / 10 量化跟踪指标 / 5 视角分主题入口 / 5 开放问题 + 决策模板钩子
+- **MOC 范式来源**: Nick Milo (Linking Your Thinking) / Andy Matuschak (evergreen notes) 提出的「按主题策展的 hub 页」, 跟 wiki/index.md 全局索引互补：index 是全字典, MOC 是某主题作战室
+- **index.md 重组**: 顶部新增 MOC 段, 在 Syntheses 之上 (因为 MOC 是高一层的入口)
