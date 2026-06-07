@@ -2,6 +2,44 @@
 
 ---
 
+## [2026-06-07] ingest | 光通信批次 4 · 6/04-6/07 共 14 篇（28-41/41，完成）
+
+### 工作概览
+最终批次：6/04 HVLP4 铜箔+玻璃基板专家 / 6/05 共 12 篇综合（CPO/OCS 全产业链 + 海外 Lumentum + Macom 200G PD + Intel 硅光 + 长电封测 + 兆驰华为 + Hyperscaler 综合 + 海外光纤 + PCB 大厂）/ 6/07 国产模型与硬件字节 4,500 亿 Capex。
+
+### 新增 sources（14 个）
+- [[摘要-taiwan-second-tier-copper-hvlp4-2026-06-04]]
+- [[摘要-glass-substrate-expert-2026-06-04]]
+- [[摘要-cpo-ocs-supply-chain-2026-06-05]]
+- [[摘要-cpo-research-2028-3x-2026-06-05]]
+- [[摘要-hyperscaler-hardware-roadmap-2026-06-05]]
+- [[摘要-pcb-ai-line-source-photonics-cw-2026-06-05]]
+- [[摘要-zhaochi-h-company-2026-06-05]]
+- [[摘要-advanced-packaging-jcet-tfme-2026-06-05]]
+- [[摘要-overseas-optical-cpo-2027-ramp-2026-06-05]]
+- [[摘要-domestic-osat-mlu590-690-790-2026-06-05]]
+- [[摘要-overseas-optical-cpo-fiber-2026-06-05]]
+- [[摘要-macom-200g-pd-coherent-lite-2026-06-05]]
+- [[摘要-intel-silicon-photonics-npo-cpo-2026-06-05]]
+- [[摘要-domestic-models-bytedance-wechat-agent-2026-06-07]]
+
+### 新增 concepts（0 个）
+本批次主要复用已建概念（CPO/NPO/ELSFP/DFAU/CW光源/保偏光纤/MSAP/TGV玻璃基板/磷化铟/SOI硅光衬底/3.2T技术路线 等）
+
+### index.md 新增
+"光通信 6/05 CPO/OCS/NPO/Coherent-Lite/封测综合" 二级分类 + "光通信 6/07 国产模型与硬件" 子类
+
+### 归档
+14 篇 → `raw/09-archive/光通信/`（累计 **41/41 全部完成**）
+
+### 光通信批次 4 总进度（4 批合计）
+- **41/41 sources** 全部 ingest（9 + 10 + 8 + 14）
+- **新增 concepts 共 12 个**：SOI硅光衬底 / MT插芯 / 正交背板 / MicroLED光通信 / TGV玻璃基板 / DCI / EDFA / DFAU / 磷化铟 / MSAP / ELSFP（批次 1-3）
+- **更新（merge）concepts 共 1 个**：保偏光纤（数据互证 + 长盈通深度）
+- **index.md 新增 5 个二级分类**：光通信硅光与 SOI 衬底 / 光通信先进封装与互连 / 光通信 CW/EML/DCI/DFAU 厂商深度 / 光通信 TGV 玻璃基板与系统级 / 光通信 6/05 综合
+
+---
+
 ## [2026-06-07] ingest | 光通信批次 3 · 6/02-6/04 共 8 篇（20-27/41）
 
 ### 工作概览

@@ -110,6 +110,24 @@
 - [[摘要-copos-glass-substrate-2026-catalyst-2026-06-03]] — CoPoS vs FOPLP 并行 + ABF 缺口被低估 + 联赢激光
 - [[摘要-computex-2026-agentic-ai-systems-2026-06-03]] — Computex 端云协同 + RTX Spark + Ultra Low Loss CCL 50%+
 - [[摘要-ai-equipment-domestic-substitution-2026-06-03]] — 国产替代设备早期 + 苹果折叠屏变量 + 光模块设备价值链
+- [[摘要-glass-substrate-expert-2026-06-04]] — 玻璃基板专家深度 + 原片/设备/Interposer/CPO 全产业链
+- [[摘要-taiwan-second-tier-copper-hvlp4-2026-06-04]] — HVLP4 长期紧缺 + 三井温和涨价 + 德福突破
+
+### 光通信 6/05 CPO/OCS/NPO/Coherent-Lite/封测综合
+- [[摘要-cpo-ocs-supply-chain-2026-06-05]] — CPO/OCS 价格年降幅收窄 + ELSFP/FAU/DFAU 价值量拆分 + 3.2T 路线
+- [[摘要-cpo-research-2028-3x-2026-06-05]] — 27 年 ELS 上修 1 亿 CW + 28 年翻 3 倍 + CW/保偏 FA 瓶颈
+- [[摘要-hyperscaler-hardware-roadmap-2026-06-05]] — Meta MTIA + Arista + DRAM/NAND + 1.6T/NPO/CPO 时间线
+- [[摘要-pcb-ai-line-source-photonics-cw-2026-06-05]] — 东山精密 AI PCB + 索尔思 CW 月 400-500 万 + 100G EML
+- [[摘要-zhaochi-h-company-2026-06-05]] — 兆驰股份 + 华为光模块合作模式 + 海思 200G×8
+- [[摘要-advanced-packaging-jcet-tfme-2026-06-05]] — 长电+通富+盛合先进封装 + CoWoS-L NPU + 3DIC 炒作
+- [[摘要-overseas-optical-cpo-2027-ramp-2026-06-05]] — Lumentum CPO 2026 3 万台 → 2027 25-30 万台 + 4-5 千万 CW
+- [[摘要-domestic-osat-mlu590-690-790-2026-06-05]] — 长电寒武纪 MLU590/690/790 CoWoS-S → CoWoS-L 节奏
+- [[摘要-overseas-optical-cpo-fiber-2026-06-05]] — 康宁 Shuffle Box/保偏/V-groove + 国内外光纤价格倒挂
+- [[摘要-macom-200g-pd-coherent-lite-2026-06-05]] — MACOM 200G PD 60% 满足 + NPO 取消 DSP + Coherent-Lite
+- [[摘要-intel-silicon-photonics-npo-cpo-2026-06-05]] — Intel 集成激光器 + glass bridge 可插拔 + Tower 投资
+
+### 光通信 6/07 国产模型与硬件
+- [[摘要-domestic-models-bytedance-wechat-agent-2026-06-07]] — 字节 4,500 亿 Capex + 微信 Agent 交易闭环 + MaaS 毛利 5-12%
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
