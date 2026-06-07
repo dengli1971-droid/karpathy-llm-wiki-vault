@@ -1107,6 +1107,19 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 
 ---
 
+## [2026-06-07] ingest | 批量 semi 批次 3 第 3 段（6/06-6/07 共 5 篇）
+
+- **完成 [28/28]**: 6/04-6/07 全部归档，batch 3 整个 28 篇接力完成
+- **新增 sources（5 个）**:
+  - 宏观/拐点：ai-infra-2027h2-supply-demand-reversal / global-index-decline-w1-june / cyclic-extreme-ai-rotation
+  - HBM：hbm-tsv-equipment-leadtime
+  - PCB/CCL：rubin-ultra-orthogonal-ptfe
+- **更新 concepts（1 个）**: [[CCL覆铜板]] — 加入 Rubin Ultra 78 层正交背板 + PTFE 路线 + 三方案博弈 + 加工地狱
+- **index 二级分类新增**：「宏观与市场综合」
+- **冲突**: 无
+
+---
+
 ## [2026-06-07] ingest | 批量 semi 批次 3 第 2 段（6/05 共 13 篇）
 
 - **完成 [23/28]**: 6/05 全部 13 篇归档

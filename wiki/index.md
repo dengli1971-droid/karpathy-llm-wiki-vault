@@ -33,6 +33,7 @@
 - [[摘要-power-chip-drmos-fivr-2026-06-05]] — DrMOS 格局 + FIVR 趋势 + SST 带动
 - [[摘要-sic-idm-2026-06-05]] — SiC IDM 龙头 服务器电源 + 涨价持续性
 - [[摘要-server-cooling-rubin-2026-06-05]] — 服务器散热 Rubin 石墨烯 TIM + 微通道
+- [[摘要-rubin-ultra-orthogonal-ptfe-2026-06-07]] — Rubin Ultra 正交背板 78 层 + PTFE 材料验证突围
 
 ### CPU 与 ARM 算力底座
 - [[摘要-cpu-pricing-competitive-2026-06-01]] — CPU 涨价 + 各家竞争优势对比（AMD 实际涨 40-50%）
@@ -48,6 +49,7 @@
 - [[摘要-dram-nand-pricing-2026-06-01]] — DRAM/NAND 价格强周期与长协机制
 - [[摘要-korea-strike-cxmt-ipo-2026-06-01]] — 韩国三星罢工与长鑫上市
 - [[摘要-3d-dram-guangyu-xinchen-2026-06-05]] — 光宇芯辰 3D DRAM 存算一体端侧 AI
+- [[摘要-hbm-tsv-equipment-leadtime-2026-06-07]] — HBM 下一程 决定座次的是 TSV 设备交期（美光通霄/4倍跃升/准基建）
 
 ### 大模型训练推理范式
 - [[摘要-na-llm-pre-vs-post-training-2026-06-01]] — 北美大模型预训练 vs 后训练策略
@@ -81,6 +83,11 @@
 
 ### 消费电子
 - [[摘要-xiaomi-storage-pricing-impact-2026-06-04]] — 小米 存储涨价传导 + 汽车毛利 + AIoT 2026 展望
+
+### 宏观与市场综合
+- [[摘要-ai-infra-2027h2-supply-demand-reversal-2026-06-06]] — AI 硬件基础设施 2027H2 供需大逆转预判（CapEx 折旧 + 四大材料产能共振）
+- [[摘要-global-index-decline-w1-june-2026-06-07]] — 6 月第一周全球指数下挫六因素（谷歌融资/博通/Rubin内存/非农/四巫日）
+- [[摘要-cyclic-extreme-ai-rotation-2026-06-07]] — 阶段性极限 AI 链密集催化剂窗口关闭 + 筹码重构
 
 ---
 
