@@ -82,12 +82,24 @@
 - [[摘要-soi-photonics-supply-demand-2026-06-01]] — SOI 市场空间 + DSP 稀缺 + LNOI/POI 异质集成展望
 - [[摘要-foundry-soi-pricing-2026-06-01]] — Tower 视角 + LWLG 光电聚合物验证 + GF 反扑战略 + NVIDIA 多 CPO 路线
 - [[摘要-umc-silicon-photonics-lnoi-2026-06-01]] — UMC 新加坡 Fab 12i 4.5 万片/月 + 赛丽 LNOI 授权回购 + 旭创新易盛地缘避险
+- [[摘要-inp-substrate-zhongri-2026-06-01]] — 磷化铟衬底中锗+全行业 + 高纯磷 RASA/YAMANAKA 卡脖子
 
-### 光通信先进封装与互连（MT 插芯/MicroLED/CPO/正交背板）
+### 光通信先进封装与互连（MT 插芯/MicroLED/CPO/正交背板/MSAP/TGV）
 - [[摘要-mt-ferrule-ai-cpo-2026-06-01]] — MT 插芯 CPO 量价齐升 5-10 倍 + 日系设备 9-10 月交期瓶颈
 - [[摘要-microled-optical-bydone-corning-2026-06-01]] — MicroLED 光通信 + 京东方康宁战略合作 + TGV 玻璃基板四方向
 - [[摘要-rubin-liquid-cooling-cpo-switch-elasticity-2026-06-01]] — Rubin 液冷自供 75% + CPO 交换机独家 + 正交背板替代 5000 铜缆
 - [[摘要-ems-fabrinet-cpo-hyperscaler-2026-06-01]] — EMS 转型 + Fabrinet 光制造 TSMC 类垄断 + Hyperscaler Buffet 模式
+- [[摘要-nvidia-cpo-dfau-senko-tianfu-2026-06-01]] — NVIDIA CPO 第二代 DFAU 标准 + 三组合格供应商
+- [[摘要-glass-substrate-cpo-tgv-2026-06-01]] — TGV 玻璃基板物理必然性 + 沃格光电/天孚通信 Alpha 框架
+- [[摘要-cpo-mlcc-migration-2026-06-02]] — CPO 倒逼 MLCC 封装位置迁移 + 价值量 2-4× + 反向几何/硅电容
+- [[摘要-msap-process-pcb-2026-06-02]] — MSAP 渗透 25→70% + 钻针 5× 损耗 + 高端铜箔三井/德福
+
+### 光通信 CW/EML/DCI/DFAU 厂商深度
+- [[摘要-corning-flexconnect-pm-edfa-2026-06-01]] — 康宁视角 FLEXCONNECT + EDFA + 全球保偏产能
+- [[摘要-optical-industry-dci-cpo-1.6t-2026-06-01]] — DCI/CPO/EDFA 全产业链综合 + ELSFP 指引
+- [[摘要-source-photonics-suss-meta-cw-2026-06-01]] — 索尔思视角 800G/1.6T/CW/EML + Meta/Coherent/AWS
+- [[摘要-eml-200g-ramp-coherent-2026-06-01]] — 索尔思 100G/200G EML 扩产 + Coherent 审厂
+- [[摘要-dci-scale-across-coherent-2026-06-02]] — Ciena 视角 DCI Scale-across 元年 + 1:1:1 + ITLA/DSP/隔离器瓶颈
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
@@ -233,6 +245,11 @@
 - [[中美光互连竞争格局]] — 中国光模块集成方案 vs 美国 CPO 垂直整合的战略对抗
 - [[MT插芯]] — MPO/MMC 多芯连接器核心；CPO 时代 5-10 倍量 + 4× 单价齐升
 - [[MicroLED光通信]] — 机柜内/板内短距光互连；Avicena 已商用；2028-29 大规模
+- [[DCI]] — 数据中心互联（含 Scale-across）+ EDFA/相干光模块；2026-2028 三年 $200 亿
+- [[EDFA]] — 掺铒光纤放大器 + 980nm 泵浦激光器瓶颈
+- [[DFAU]] — NVIDIA Spectrum-X 第二代可插拔标准 + Senko/天孚/上诠
+- [[磷化铟]] — InP 衬底 + 6N 高纯磷日企卡脖子
+- [[MSAP]] — 高端 PCB 工艺；1.6T+ 必选；2026-2028 渗透 25→70%
 
 ---
 

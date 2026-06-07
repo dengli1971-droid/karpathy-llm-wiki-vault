@@ -2,6 +2,41 @@
 
 ---
 
+## [2026-06-07] ingest | 光通信批次 2 · 6/01 剩余+6/02 共 10 篇（10-19/41）
+
+### 工作概览
+继续光通信批次 2：6/01 剩余 7 篇（康宁 FLEXCONNECT/全产业链/索尔思/NVIDIA DFAU/索尔思 EML/玻璃基板 Alpha/磷化铟）+ 6/02 前 3 篇（CPO 倒逼 MLCC/DCI Ciena/MSAP）。
+
+### 新增 sources（10 个）
+- [[摘要-corning-flexconnect-pm-edfa-2026-06-01]]
+- [[摘要-optical-industry-dci-cpo-1.6t-2026-06-01]]
+- [[摘要-source-photonics-suss-meta-cw-2026-06-01]]
+- [[摘要-nvidia-cpo-dfau-senko-tianfu-2026-06-01]]
+- [[摘要-eml-200g-ramp-coherent-2026-06-01]]
+- [[摘要-glass-substrate-cpo-tgv-2026-06-01]]
+- [[摘要-inp-substrate-zhongri-2026-06-01]]
+- [[摘要-cpo-mlcc-migration-2026-06-02]]
+- [[摘要-dci-scale-across-coherent-2026-06-02]]
+- [[摘要-msap-process-pcb-2026-06-02]]
+
+### 新增 concepts（5 个）
+- [[DCI]] — 数据中心互联 + Scale-across 元年 2026
+- [[EDFA]] — 掺铒光纤放大器 + 980nm 泵浦瓶颈
+- [[DFAU]] — NVIDIA 第二代可插拔标准
+- [[磷化铟]] — InP 衬底 + 高纯磷 RASA/YAMANAKA 卡脖子
+- [[MSAP]] — 1.6T+ 必选高端 PCB 工艺
+
+### index.md 重组
+新增 "光通信 CW/EML/DCI/DFAU 厂商深度" 二级分类
+
+### 归档
+10 篇 → `raw/09-archive/光通信/`（累计 19）
+
+### 进度
+19/41，剩余 22 篇
+
+---
+
 ## [2026-06-07] ingest | 光通信批次 1 · 6/01 共 9 篇（1-9/41）
 
 ### 工作概览
