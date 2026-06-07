@@ -14,11 +14,18 @@
 ### 半导体与电源架构
 - [[摘要-mlcc-drmos-pricing-anchor]] — MLCC 定价锚点应落在 DRMOS 而非服务器台数（非共识逻辑）
 - [[摘要-ai-capacitor-deep-compare-part1-2026-06-02]] — AI 基础设施电容横向深度比较上篇（800V HVDC/SST/LIC 物理框架）
+- [[摘要-ai-capacitor-deep-compare-part2-2026-06-04]] — AI 基础设施电容横向深度比较下篇（4×5 矩阵 + 双锚验证 + 五子行业格局）
 - [[摘要-domestic-mlcc-high-cap-2026-06-01]] — 国产 MLCC 高容产品向华为送样进展
 - [[摘要-mlcc-tape-casting-machine-2026-06-02]] — MLCC 流延机重要性与国产化
+- [[摘要-japan-mlcc-murata-2026-06-04]] — 日系 MLCC 村田 AI 服务器份额 50% + 联合开发壁垒 + 大陆产线策略转向
 - [[摘要-domestic-drmos-suppliers-2026-06-02]] — 国内 DrMOS 主要供应商（晶丰 / 杰华特）进展
+- [[摘要-drmos-expert-2026-06-04]] — DrMOS 三级电源国产突破 + 模拟涨价节奏
+- [[摘要-ai-power-sic-bottleneck-2026-06-04]] — AI 功率器件 SiC TAM 边界 + 封装瓶颈
+- [[摘要-sic-allocation-tam-2026-06-04]] — SiC 650V/1200V 分货 + SST/PSU/BBU $/kW 测算
+- [[摘要-sic-substrate-2026-06-04]] — SiC 衬底供需 + 平价临界点 + 8 寸替代
 - [[摘要-ptfe-strategic-material-2026-06-02]] — PTFE 从大宗品到战略材料的再定价
 - [[摘要-ccl-rubin-glass-fiber-2026-06-01]] — CCL 大厂 Rubin 平台与二代玻璃布
+- [[摘要-encapsulation-equipment-towa-2026-06-04]] — 塑封设备 C/T-molding TOWA 国产替代
 
 ### CPU 与 ARM 算力底座
 - [[摘要-cpu-pricing-competitive-2026-06-01]] — CPU 涨价 + 各家竞争优势对比（AMD 实际涨 40-50%）
@@ -46,6 +53,7 @@
 - [[摘要-asic-broadcom-openai-google-tpu-2026-06-01]] — 博通视角 OpenAI / TPU / Trainium 项目
 - [[摘要-top-csp-capex-self-chip-2026-06-01]] — 头部 CSP 资本开支与自研芯片
 - [[摘要-top-csp-self-chip-product-2026-06-01]] — 芯原视角 CSP 自研产品
+- [[摘要-na-asic-3-qualcomm-npu-2026-06-04]] — 高通 AI200/AI250 NPU 与端侧 AI 拐点
 
 ### 先进封装与玻璃基板
 - [[摘要-tsmc-cowos-soic-glass-2026-06-02]] — 台积电 CoWoS 产能外包 + SOIC 客户更新
@@ -53,9 +61,13 @@
 
 ### 光通信与保偏光纤
 - [[摘要-pm-fiber-corning-oem-2026-06-01]] — AI 基建驱动保偏光纤供需失衡 + 康宁 OEM 代工
+- [[摘要-optical-fiber-ai-dc-2026-06-04]] — 光纤 AI DC 2026 需求 1.1-1.2 亿芯公里 + G657A2 旺季回切
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
+
+### 消费电子
+- [[摘要-xiaomi-storage-pricing-impact-2026-06-04]] — 小米 存储涨价传导 + 汽车毛利 + AIoT 2026 展望
 
 ---
 

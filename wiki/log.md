@@ -1107,6 +1107,25 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 
 ---
 
+## [2026-06-07] ingest | 批量 semi 批次 3 第 1 段（6/04 共 10 篇）
+
+- **触发**: PM 委托续跑 batch 3 ingest 6/04-6/07 共 28 篇半导体
+- **完成 [10/28]**: 6/04 全部 10 篇归档（SiC/MLCC/电容/DrMOS/光纤/塑封/北美ASIC/消费电子全覆盖）
+- **新增 sources（10 个）**:
+  - 电容/MLCC：ai-capacitor-deep-compare-part2 / japan-mlcc-murata
+  - SiC/功率器件：ai-power-sic-bottleneck / sic-allocation-tam / sic-substrate
+  - DrMOS：drmos-expert
+  - 光纤：optical-fiber-ai-dc
+  - 北美 ASIC：na-asic-3-qualcomm-npu
+  - 塑封设备：encapsulation-equipment-towa
+  - 消费电子：xiaomi-storage-pricing-impact
+- **新增 concepts（0 个）**：复用现有 [[800V HVDC]] / [[DRMOS]] / [[MLCC_AI服务器需求]] / [[保偏光纤]] / [[CPO]] 等
+- **index 二级分类新增**：「消费电子」一级
+- **未触动**: entities/ 层
+- **冲突**: 无
+
+---
+
 ## [2026-06-07] ingest | 批量 semi 批次 1（6/01-6/02 共 30 篇）
 
 - **触发**: PM 委托批量 ingest 84 篇半导体研究纪要（6/01-6/07 区间）
