@@ -343,17 +343,44 @@
 
 ## Syntheses（综合分析）
 
-- [[5c-prompt-markdown-note-taking]] — 基于 5C Framework 的 Markdown 知识笔记撰写提示词模板
+### 投资框架与系统性风险
+- [[AI算力资金回路与系统性风险]] — 161 篇 ingest 后的横向整合：NVDA 70% 集中度 + CW 久期错配 + 2027H2 拐点 + 卖方 SST/HVDC/液冷漏洞；最大 Alpha 命题是 CW DSCR 1.4x 硬约束首测 (2027/4) 早于物理拐点
+
+### 平台 BOM 深度拆解
+- [[Rubin平台BOM全产业链拆解]] — 单机柜 6 张子矩阵 (算力核心 / 封装PCB / CCL基板 / 电源链 / 被动元件 / 散热液冷 / 网络互联)，~35 行组件 × 5 列价值量/用量/涨幅/国产窗口/受益龙头；最大 Alpha 集中在 PTFE 正交背板 ([[002463 CH 沪电股份]]) / 薄膜电容 ([[300861 CH 法拉电子]]) / 钽电容 ([[300726 CH 宏达电子]])
+
+### 中国光模块产业链（4 月既有）
 - [[中际旭创与新易盛竞争格局分析]] — 中国光模块双寡头的组织能力与执行效率对比分析
 - [[英伟达投资战略与光互连生态布局]] — 20 亿投资 Lumentum、NPO 蓝海、CPO 延迟的完整生态主导战略
 
-（待创建：高级封装代工分析、国产替代机遇、DSP 芯片生态等）
+（待创建：中国大模型 B 端商业化与 MaaS 单位经济 / 国产替代分赛道节奏 / DSP 芯片生态 / Hyperscaler Roadmap 等）
 
 ---
 
 ---
 
 ## 最近更新
+
+**[2026-06-07] 项目重启完整收官：163 篇 ingest + 2 篇 syntheses**
+
+- 项目自 2026-04-26 沉寂 6 周后, PM 6/07 决定重启 LLM Wiki
+- **完整 batch 走完 5 批 ingest = 163 篇** (半导体 84 / 光通信 41 / AI 与云 35 / 其他 2 + demo 1)
+  - 半导体 84 篇 (5 commit: 31f3ea7 / 45abdd9 / 16e51bc / dc092cf / 4d30acb)
+  - 光通信 41 篇 (4 commit: acc0392 / 6e16fec / d1ba9b5 / d3d42ad)
+  - AI 与云 35 篇 (2 commit: 1487593 / 0fe78c6)
+  - 「其他」残留 2 篇 (1 commit: 1aadf5b) — 重读芒格二 + EssilorLuxottica 智能眼镜
+- **新增 2 篇 syntheses** (commit: e904c0b / e327f8f)
+  - [[AI算力资金回路与系统性风险]] — 24 wikilink / 14 source / 九节结构 / 最大 Alpha 命题 = CW 与 GC1999 同构但资产寿命短 7x → 2027/4 DSCR 硬约束首测早于物理拐点
+  - [[Rubin平台BOM全产业链拆解]] — 33 source / 35 行 BOM / 165 数据点 cell / 22 待补 / Alpha 排序 PTFE 正交背板 > 薄膜电容 > 钽电容
+- **wiki 总规模盘点**:
+  - sources: **173 个**(4/26 时 9 个 → 增 164)
+  - concepts: **37 个**(增 13 新概念: DRMOS / MLCC_AI服务器需求 / Beta_Alpha锚点框架 / 800V HVDC / CCL覆铜板 / 保偏光纤 / 芒格思维模型 / SOI硅光衬底 / MT插芯 / 正交背板 / MicroLED光通信 / TGV玻璃基板 / DCI / EDFA / DFAU / 磷化铟 / MSAP / ELSFP)
+  - syntheses: **4 个** (新 2 + 旧 2)
+  - sources 二级分类: ~30 个
+- **不触动 entities/ 层**: 由 sohar-research notes/entity_hook.py 自动维护 (705 ticker 实体页 6/07 15:33 全量重写过), /ingest skill 与 entity_hook 职责互补
+- **修了死链**: 旧 [[5c-prompt-markdown-note-taking]] 已被 PM 在某次重组中删掉, index.md 之前引用残留, 本次清理
+
+---
 
 **[2026-06-07] 半导体批量 ingest · 6/01-6/02 共 30 篇（批次 1）**
 - 新增 30 份 source 摘要，覆盖 CPU/CCL/MLCC/DrMOS/电容/CoWoS/玻璃基板/保偏光纤/Cerebras/CSP 自研/大模型范式/HBM 等

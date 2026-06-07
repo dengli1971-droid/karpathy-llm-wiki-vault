@@ -1417,3 +1417,13 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 - **未触动**: entities/ 层 (该层由 process_note.py + entity_hook.py 自动维护, 不重复跑)
 - **归档**: raw/研究纪要/半导体/2026-06-05 MLCC的非共识逻辑：定价锚点应落在DRMOS，而非服务器台数.md → raw/09-archive/半导体/
 - **积压**: 6/01-6/07 还有 160 篇待 ingest (半导体 84 / 光通信 41 / AI 35 / 其他 1)
+
+## [2026-06-07] syntheses 横向整合收官 · 2 篇综合分析
+
+- **触发**: 5 批 ingest (161 + 残留 2 = 163 篇) 全部完成后, PM 决定直接推进到 syntheses 横向整合
+- **新增 syntheses**:
+  - [[AI算力资金回路与系统性风险]] (commit e904c0b, wiki/synthesis/, 397 行)
+  - [[Rubin平台BOM全产业链拆解]] (commit e327f8f, wiki/synthesis/, 6 张子矩阵 + 165 数据点 cell)
+- **未触动 entities/**
+- **修死链**: 旧 [[5c-prompt-markdown-note-taking]] 已不存在, index.md 引用清理
+- **index.md 重组 Syntheses 段**: 分「投资框架与系统性风险」/「平台 BOM 深度拆解」/「中国光模块产业链 (4 月既有)」三个二级分类
