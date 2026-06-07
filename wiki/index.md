@@ -135,6 +135,8 @@
 - [[摘要-google-gemini35-allin-coding-2026-06-01]] — Gemini 3.5 Bug + 谷歌 ALL IN 编程追赶 Anthropic
 - [[摘要-google-search-gemini-agent-2026-06-03]] — 谷歌 AI Mode + Chrome Agent 99% + 购物/本地 Agent + Uber A2A
 - [[摘要-token-pricing-tier-2026-06-03]] — Token 三层定价 + 分层必然 + 中间商利润窄
+- [[摘要-claude48-codex-pressure-2026-06-06]] — Claude 4.8 SWE-Bench Pro 第一 + Fast Mode 1/3 价 + 禁入放开 ARR
+- [[摘要-ai-observability-na-2026-06-06]] — 北美 AI 观测 CLI 化趋势 + Chronosphere GPU + ES 开源-闭源云转化
 
 ### 云厂商与算力 Token 经济
 - [[摘要-internet-cloud-pricing-2026-06-01]] — 火山引擎涨价 + 字节 Token 5T→1,000T + MaaS 单位经济
@@ -151,6 +153,8 @@
 - [[摘要-japan-capacitor-cap-import-2026-06-03]] — 日系电容北美 CSP 导入流程 + MSFT/Meta/NVDA/GOOG 推进
 - [[摘要-shenglan-connector-liquid-cooling-2026-06-01]] — 胜蓝连接器/液冷接头 + 富士康 800A 铜排
 - [[摘要-liquid-cooling-supply-chain-2026-06-03]] — 申菱液冷一次侧 + 干冷器 ¥7-9 亿 vs 冷却塔 ¥13 亿
+- [[摘要-tantalum-capacitor-2026-06-05]] — 钽电容 Rubin 单机 5,000 颗 + 三轮涨 50-60% + 国产 PCB 引脚结构
+- [[摘要-ai-bear-case-sst-hvdc-cooling-2026-06-06]] — 卖方 SST/HVDC/液冷并列推荐漏洞 + 100/500/1GW 三档 TCO 临界
 
 ### AI 服务器 MLCC（批次 5）
 - [[摘要-mlcc-rare-earth-supply-gap-2026-06-01]] — 稀土改性壁垒 + 2026 K 型分化 + 村田/三星份额
@@ -159,6 +163,16 @@
 - [[摘要-guoci-material-mlcc-2026-06-02]] — 国瓷材料 MLCC 介质粉 + 球硅 + 蜂窝陶瓷
 - [[摘要-mlcc-distributor-2026-06-03]] — 宇阳/微容竞争格局 + 三星贴牌
 - [[摘要-mlcc-domestic-progress-2026-06-04]] — MLCC（2）AI 单机用量 + 三次电源 80% + 转产路径
+- [[摘要-mlcc-production-equipment-material-2026-06-04]] — 高容材料/设备 + 博迁纳米镍粉 80nm + 三星 4 年长协
+- [[摘要-mlcc-domestic-supply-demand-2026-06-05]] — 代理视角 二级涨 50% + 村田不发函（中日关系）
+- [[摘要-japan-mlcc-distributor-2026-06-05]] — 日系代理 村田 4 月卡单 + 库存 5 月 + AI 占总量 10%
+
+### AI 服务器 PCB / 钻针 / 钽电容
+- [[摘要-pcb-drill-pin-rubin-2026-06-04]] — PCB 钻针 Rubin 一拖四 50 倍长径比 + 寿命 200 孔 + 月产 1.2 亿支
+- [[摘要-tantalum-capacitor-2026-06-05]] — 钽电容 Rubin 单机 5,000 颗
+
+### 存储与 HDD（批次 5）
+- [[摘要-hdd-hamr-2026-06-05]] — HDD HAMR 30TB 起步 + 铁铂合金 + 玻璃基板供应商重塑
 
 ### 光纤与传输（批次 5）
 - [[摘要-optical-fiber-corning-tongding-2026-06-03]] — 通鼎+康宁长协 + 韶关 600 吨扩产
@@ -169,6 +183,9 @@
 
 ### 具身智能（批次 5）
 - [[摘要-unitree-ipo-six-questions-2026-06-02]] — 宇树科技 IPO + VLA + 留管理层六问
+
+### 消费电子（批次 5）
+- [[摘要-apple-foldable-2026-06-04]] — 苹果折叠屏液态金属铰链 + 3D 打印钛 + 7.7" OLED + UTG
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万

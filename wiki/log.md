@@ -2,6 +2,46 @@
 
 ---
 
+## [2026-06-07] ingest | AI 与云计算批次 5 · 6/04-6/06 共 10 篇（part 2/2，35/35 完成）
+
+### 工作概览
+batch 5 收尾：剩余 10 篇全部 ingest 完成。6/04 共 3 篇（PCB 钻针 Rubin/苹果折叠屏/高容 MLCC 材料设备博迁镍粉）+ 6/05 共 4 篇（HDD HAMR/MLCC 代理调研/日系 MLCC 代理/钽电容）+ 6/06 共 3 篇（Claude 4.8 ARR/北美 AI 观测 CLI/卖方 SST HVDC 液冷漏洞）。
+
+### 新增 sources（10 个）
+- [[摘要-pcb-drill-pin-rubin-2026-06-04]]
+- [[摘要-apple-foldable-2026-06-04]]
+- [[摘要-mlcc-production-equipment-material-2026-06-04]]
+- [[摘要-hdd-hamr-2026-06-05]]
+- [[摘要-mlcc-domestic-supply-demand-2026-06-05]]
+- [[摘要-japan-mlcc-distributor-2026-06-05]]
+- [[摘要-tantalum-capacitor-2026-06-05]]
+- [[摘要-claude48-codex-pressure-2026-06-06]]
+- [[摘要-ai-observability-na-2026-06-06]]
+- [[摘要-ai-bear-case-sst-hvdc-cooling-2026-06-06]]
+
+### 新增 concepts（0 个）
+本批次主要复用：MLCC_AI 服务器需求 / DRMOS / 800V HVDC / 正交背板 / Beta_Alpha 锚点框架 / 芒格思维模型 / CCL 覆铜板。
+
+### index.md 新增
+"AI 服务器 PCB / 钻针 / 钽电容" 二级分类 + "存储与 HDD（批次 5）" + "消费电子（批次 5）" + 现有分类追加。
+
+### 归档
+10 篇 → `raw/09-archive/AI与云计算/`（累计 **35/35 全部完成**）
+
+### batch 5 总进度（part 1+2 = 25+10 = 35）
+- **35/35 AI sources** 全部 ingest
+- **新增 concepts 共 1 个**：[[芒格思维模型]]（业务侧 Alpha 识别框架）
+- **index.md 新增 11 个二级分类**：AI 大模型生态与 B 端商业化 / 云厂商与算力 Token 经济 / AI 资本结构与系统性风险 / AI 服务器电容与液冷 / AI 服务器 MLCC / AI 服务器 PCB 钻针 钽电容 / 存储与 HDD / 光纤与传输 / 重读经典 投资方法论 / 具身智能 / 消费电子
+
+### 五批次累计盘点
+- **161/161 全部 ingest 完成**：半导体 84 + 光通信 41 + AI 35 + 其他 1
+- **wiki/sources/ 总数**：~171 个 source 摘要（35 + 已有 136）
+- **wiki/concepts/ 总数**：~37 个 concept（new 芒格思维模型 + 已有 36）
+- **index.md 二级分类**：~30 个（含批次 5 新增 11 个）
+- **零知识冲突**：本批次全部串行处理，未触发暂停
+
+---
+
 ## [2026-06-07] ingest | AI 与云计算批次 5 · 6/01-6/04 共 25 篇（part 1/2）
 
 ### 工作概览
