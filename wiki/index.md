@@ -13,6 +13,49 @@
 
 ### 半导体与电源架构
 - [[摘要-mlcc-drmos-pricing-anchor]] — MLCC 定价锚点应落在 DRMOS 而非服务器台数（非共识逻辑）
+- [[摘要-ai-capacitor-deep-compare-part1-2026-06-02]] — AI 基础设施电容横向深度比较上篇（800V HVDC/SST/LIC 物理框架）
+- [[摘要-domestic-mlcc-high-cap-2026-06-01]] — 国产 MLCC 高容产品向华为送样进展
+- [[摘要-mlcc-tape-casting-machine-2026-06-02]] — MLCC 流延机重要性与国产化
+- [[摘要-domestic-drmos-suppliers-2026-06-02]] — 国内 DrMOS 主要供应商（晶丰 / 杰华特）进展
+- [[摘要-ptfe-strategic-material-2026-06-02]] — PTFE 从大宗品到战略材料的再定价
+- [[摘要-ccl-rubin-glass-fiber-2026-06-01]] — CCL 大厂 Rubin 平台与二代玻璃布
+
+### CPU 与 ARM 算力底座
+- [[摘要-cpu-pricing-competitive-2026-06-01]] — CPU 涨价 + 各家竞争优势对比（AMD 实际涨 40-50%）
+- [[摘要-cpu-research-pricing-demand-2026-06-01]] — CPU 调研代理商视角涨价 + 推理需求
+- [[摘要-cpu-ai-agent-coding-bytedance-2026-06-01]] — AI Agent / Coding 对 CPU 需求影响 + X86 vs ARM
+- [[摘要-vera-cpu-platform-2026-06-01]] — Vera CPU 英伟达为何重做 CPU 底座
+- [[摘要-arm-nvidia-agi-cpu-2026-06-02]] — Arm AGI CPU 与 NVIDIA 联手 Computex 2026 keynote
+- [[摘要-jensen-huang-vera-rubin-gtc-taipei-2026-06-01]] — 黄仁勋 GTC Taipei 2026 keynote
+- [[摘要-jensen-huang-five-layer-cake-interview-2026-06-01]] — 黄仁勋访谈 AI 五层蛋糕模型
+- [[摘要-computex-rtx-spark-aipc-2026-06-02]] — RTX Spark + AIPC 换机潮研判
+
+### 存储与 HBM
+- [[摘要-dram-nand-pricing-2026-06-01]] — DRAM/NAND 价格强周期与长协机制
+- [[摘要-korea-strike-cxmt-ipo-2026-06-01]] — 韩国三星罢工与长鑫上市
+
+### 大模型训练推理范式
+- [[摘要-na-llm-pre-vs-post-training-2026-06-01]] — 北美大模型预训练 vs 后训练策略
+- [[摘要-llm-context-agent-storage-cpu-2026-06-01]] — 上下文 + Agent 集群对存储 / CPU 需求
+- [[摘要-harness-trajectory-pretrain-2026-06-02]] — Harness 前置 + trajectory data 训练范式
+- [[摘要-glm-coding-iteration-2026-06-01]] — 智谱 GLM Coding 竞争与算力规划
+- [[摘要-cerebras-wafer-scale-vs-lpu-2026-06-01]] — Cerebras 晶圆级 vs LPU 路径对比
+- [[摘要-cerebras-vs-gpu-inference-2026-06-02]] — Cerebras 在推理市场良率与场景
+
+### ASIC 与 CSP 自研芯片
+- [[摘要-asic-broadcom-openai-google-tpu-2026-06-01]] — 博通视角 OpenAI / TPU / Trainium 项目
+- [[摘要-top-csp-capex-self-chip-2026-06-01]] — 头部 CSP 资本开支与自研芯片
+- [[摘要-top-csp-self-chip-product-2026-06-01]] — 芯原视角 CSP 自研产品
+
+### 先进封装与玻璃基板
+- [[摘要-tsmc-cowos-soic-glass-2026-06-02]] — 台积电 CoWoS 产能外包 + SOIC 客户更新
+- [[摘要-glass-substrate-interposer-2026-06-01]] — 玻璃基板渗透节奏
+
+### 光通信与保偏光纤
+- [[摘要-pm-fiber-corning-oem-2026-06-01]] — AI 基建驱动保偏光纤供需失衡 + 康宁 OEM 代工
+
+### 测试设备
+- [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
 
 ---
 
@@ -119,6 +162,11 @@
 ### 电源与被动元件
 - [[DRMOS]] — Driver + MOSFET 集成模块：AI 服务器主板供电的物理刚性核心
 - [[MLCC_AI服务器需求]] — AI 服务器对 MLCC 的量价齐升双驱动结构
+- [[800V HVDC]] — 800V 高压直流：英伟达 Vera Rubin Ultra Kyber 参考架构
+
+### 半导体材料与封装
+- [[CCL覆铜板]] — 覆铜板：Low Dk 二代玻璃布 + HVLP 铜箔升级
+- [[保偏光纤]] — 保偏光纤：CPO/NPO/OCS 必备相干光源配套
 
 ### 产业与技术
 - [[CommercialSpaceflight]] — 商业航天：从政府垄断向市场化的太空经济
@@ -151,6 +199,13 @@
 ---
 
 ## 最近更新
+
+**[2026-06-07] 半导体批量 ingest · 6/01-6/02 共 30 篇（批次 1）**
+- 新增 30 份 source 摘要，覆盖 CPU/CCL/MLCC/DrMOS/电容/CoWoS/玻璃基板/保偏光纤/Cerebras/CSP 自研/大模型范式/HBM 等
+- 新增 3 个 concept：[[CCL覆铜板]] / [[800V HVDC]] / [[保偏光纤]]
+- index.md sources 重组：新增 9 个半导体二级分类
+- 归档至 raw/09-archive/半导体/
+- 仍剩 54 篇待 ingest（半导体批次 2 + 3）
 
 **[2026-06-07] LLM Wiki 项目重启 · 6/05 MLCC DRMOS 非共识纪要单篇 demo ingest**
 - 自 2026-04-26 后 LLM Wiki 项目沉寂 6 周; 6/07 PM 决定重启, 先抽 1 篇 demo 跑通 SKILL.md 6 步流水线验证产出形态

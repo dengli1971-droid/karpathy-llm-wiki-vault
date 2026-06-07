@@ -1107,6 +1107,26 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 
 ---
 
+## [2026-06-07] ingest | 批量 semi 批次 1（6/01-6/02 共 30 篇）
+
+- **触发**: PM 委托批量 ingest 84 篇半导体研究纪要（6/01-6/07 区间）
+- **完成 [30/84]**: 6/01 共 20 篇 + 6/02 共 10 篇 全部归档
+- **新增 sources（30 个）**:
+  - CPU/ARM：cpu-pricing-competitive / cpu-research-pricing-demand / cpu-ai-agent-coding-bytedance / vera-cpu-platform / arm-nvidia-agi-cpu / jensen-huang-vera-rubin-gtc-taipei / jensen-huang-five-layer-cake-interview / computex-rtx-spark-aipc
+  - 存储：dram-nand-pricing / korea-strike-cxmt-ipo
+  - 大模型：na-llm-pre-vs-post-training / llm-context-agent-storage-cpu / harness-trajectory-pretrain / glm-coding-iteration / cerebras-wafer-scale-vs-lpu / cerebras-vs-gpu-inference
+  - ASIC/CSP：asic-broadcom-openai-google-tpu / top-csp-capex-self-chip / top-csp-self-chip-product
+  - 封装/材料：tsmc-cowos-soic-glass / glass-substrate-interposer / ccl-rubin-glass-fiber / ptfe-strategic-material
+  - 电容/电源/MLCC：ai-capacitor-deep-compare-part1 / domestic-mlcc-high-cap / mlcc-tape-casting-machine / domestic-drmos-suppliers
+  - 光通信：pm-fiber-corning-oem-2026-06-01
+  - 测试：ai-chip-tester-changchuan-advantest
+- **新增 concepts（3 个）**: [[CCL覆铜板]] / [[800V HVDC]] / [[保偏光纤]]
+- **未触动**: entities/ 层（由 entity_hook.py 维护）
+- **冲突**: 无
+- **batch 中临时引用**：部分 source 内 [[XX-2026-06-03]] 等未来批次 link 是占位符，待后续 batch 处理
+
+---
+
 ## [2026-06-07] ingest | 项目重启 demo - MLCC DRMOS 非共识逻辑
 
 - **触发**: PM 通过 sohar-research session 决定重启 LLM Wiki 项目, 选择 6/05 MLCC DRMOS 纪要做单篇 demo
