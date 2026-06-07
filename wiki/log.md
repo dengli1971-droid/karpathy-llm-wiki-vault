@@ -2,6 +2,46 @@
 
 ---
 
+## [2026-06-07] ingest | 光通信批次 1 · 6/01 共 9 篇（1-9/41）
+
+### 工作概览
+光通信批次 4 启动，串行处理 6/01 共 9 篇纪要：MT 插芯/EMS Fabrinet/MicroLED+京东方康宁/Rubin 液冷 CPO 交换机/SOI 大厂调研 ×3/UMC 硅光+赛丽/保偏光纤长盈通。
+
+### 新增 sources（9 个）
+- [[摘要-mt-ferrule-ai-cpo-2026-06-01]]
+- [[摘要-ems-fabrinet-cpo-hyperscaler-2026-06-01]]
+- [[摘要-microled-optical-bydone-corning-2026-06-01]]
+- [[摘要-rubin-liquid-cooling-cpo-switch-elasticity-2026-06-01]]
+- [[摘要-soi-substrate-soitec-2026-06-01]]
+- [[摘要-soi-photonics-supply-demand-2026-06-01]]
+- [[摘要-foundry-soi-pricing-2026-06-01]]
+- [[摘要-umc-silicon-photonics-lnoi-2026-06-01]]
+- [[摘要-pm-fiber-changyingtong-corning-2026-06-01]]
+
+### 新增 concepts（5 个）
+- [[SOI硅光衬底]] — 1.6T/CPO/6.4T 全硅光集成地基
+- [[MT插芯]] — MPO/MMC 核心；CPO 量价齐升
+- [[正交背板]] — 5,000+ 铜缆替代 + Rubin Ultra 78 层 PTFE
+- [[MicroLED光通信]] — 机柜内/板内短距光互连
+- [[TGV玻璃基板]] — 玻璃 interposer/封装
+
+### 更新（merge）的 concepts（1 个）
+- [[保偏光纤]] — 起源 + 候选淘汰逻辑 + 长盈通 2026 产能升级 + 2025 收入结构
+
+### index.md 重组
+新增 3 个二级分类：
+- 光通信硅光与 SOI 衬底
+- 光通信先进封装与互连（MT 插芯/MicroLED/CPO/正交背板）
+- 保偏光纤分类追加 2 个新条目
+
+### 归档
+9 篇 → `raw/09-archive/光通信/`
+
+### 进度
+9/41，剩余 32 篇（光通信 6/02-6/07）
+
+---
+
 ## [2026-04-26] ingest | 股票覆盖清单全量摄入：23 个公司 entities 创建完成
 
 ### 工作概览

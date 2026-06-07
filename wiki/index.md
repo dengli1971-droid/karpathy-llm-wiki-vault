@@ -74,7 +74,20 @@
 
 ### 光通信与保偏光纤
 - [[摘要-pm-fiber-corning-oem-2026-06-01]] — AI 基建驱动保偏光纤供需失衡 + 康宁 OEM 代工
+- [[摘要-pm-fiber-changyingtong-corning-2026-06-01]] — 保偏光纤长盈通深度（起源+候选淘汰+5万芯公里产能+2025收入结构）
 - [[摘要-optical-fiber-ai-dc-2026-06-04]] — 光纤 AI DC 2026 需求 1.1-1.2 亿芯公里 + G657A2 旺季回切
+
+### 光通信硅光与 SOI 衬底
+- [[摘要-soi-substrate-soitec-2026-06-01]] — Soitec SOI 大厂产能/价格/Photonic 占比演进
+- [[摘要-soi-photonics-supply-demand-2026-06-01]] — SOI 市场空间 + DSP 稀缺 + LNOI/POI 异质集成展望
+- [[摘要-foundry-soi-pricing-2026-06-01]] — Tower 视角 + LWLG 光电聚合物验证 + GF 反扑战略 + NVIDIA 多 CPO 路线
+- [[摘要-umc-silicon-photonics-lnoi-2026-06-01]] — UMC 新加坡 Fab 12i 4.5 万片/月 + 赛丽 LNOI 授权回购 + 旭创新易盛地缘避险
+
+### 光通信先进封装与互连（MT 插芯/MicroLED/CPO/正交背板）
+- [[摘要-mt-ferrule-ai-cpo-2026-06-01]] — MT 插芯 CPO 量价齐升 5-10 倍 + 日系设备 9-10 月交期瓶颈
+- [[摘要-microled-optical-bydone-corning-2026-06-01]] — MicroLED 光通信 + 京东方康宁战略合作 + TGV 玻璃基板四方向
+- [[摘要-rubin-liquid-cooling-cpo-switch-elasticity-2026-06-01]] — Rubin 液冷自供 75% + CPO 交换机独家 + 正交背板替代 5000 铜缆
+- [[摘要-ems-fabrinet-cpo-hyperscaler-2026-06-01]] — EMS 转型 + Fabrinet 光制造 TSMC 类垄断 + Hyperscaler Buffet 模式
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
@@ -199,6 +212,9 @@
 ### 半导体材料与封装
 - [[CCL覆铜板]] — 覆铜板：Low Dk 二代玻璃布 + HVLP 铜箔升级
 - [[保偏光纤]] — 保偏光纤：CPO/NPO/OCS 必备相干光源配套
+- [[SOI硅光衬底]] — 1.6T/CPO/6.4T 全硅光集成地基；价格 $1K (8 寸)/$2.5K (12 寸)
+- [[TGV玻璃基板]] — 玻璃 interposer/封装：CPO 20+ 层堆叠；京东方+康宁战略合作
+- [[正交背板]] — Rubin 机柜内 5,000+ 铜缆替代 + 78 层 PTFE + 沪电主供
 
 ### 产业与技术
 - [[CommercialSpaceflight]] — 商业航天：从政府垄断向市场化的太空经济
@@ -215,6 +231,8 @@
 - [[COUPE]] — 台积电 CPO 核心技术：混合键合集成硅光与超高速驱动电路
 - [[3.2T技术路线]] — 下一代光模块三条技术路线（EML vs 硅光 vs LNOI）的不确定性分析
 - [[中美光互连竞争格局]] — 中国光模块集成方案 vs 美国 CPO 垂直整合的战略对抗
+- [[MT插芯]] — MPO/MMC 多芯连接器核心；CPO 时代 5-10 倍量 + 4× 单价齐升
+- [[MicroLED光通信]] — 机柜内/板内短距光互连；Avicena 已商用；2028-29 大规模
 
 ---
 
