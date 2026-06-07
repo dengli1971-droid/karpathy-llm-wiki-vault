@@ -129,6 +129,47 @@
 ### 光通信 6/07 国产模型与硬件
 - [[摘要-domestic-models-bytedance-wechat-agent-2026-06-07]] — 字节 4,500 亿 Capex + 微信 Agent 交易闭环 + MaaS 毛利 5-12%
 
+### AI 大模型生态与 B 端商业化（批次 5）
+- [[摘要-bytedance-model-competition-2026-06-01]] — 头部大模型 Kimi/DPSK V4/千问/智谱 B 端竞品 + Token 治理 + H20 部署
+- [[摘要-tencent-workbuddy-codebuddy-2026-06-01]] — 腾讯 WorkBuddy 企业版涨价 ¥198 + 多模型 Token Hub + 微信生态
+- [[摘要-google-gemini35-allin-coding-2026-06-01]] — Gemini 3.5 Bug + 谷歌 ALL IN 编程追赶 Anthropic
+- [[摘要-google-search-gemini-agent-2026-06-03]] — 谷歌 AI Mode + Chrome Agent 99% + 购物/本地 Agent + Uber A2A
+- [[摘要-token-pricing-tier-2026-06-03]] — Token 三层定价 + 分层必然 + 中间商利润窄
+
+### 云厂商与算力 Token 经济
+- [[摘要-internet-cloud-pricing-2026-06-01]] — 火山引擎涨价 + 字节 Token 5T→1,000T + MaaS 单位经济
+- [[摘要-ai-server-market-size-2026-06-03]] — 联想视角 2026 $4,000 亿 / 2027 $5,000 亿 + GB200/300 毛利结构
+- [[摘要-acecamp-custom-kb-api-2026-06-03]] — AceCamp 自定义知识库+外接API 发布
+
+### AI 资本结构与系统性风险
+- [[摘要-nvda-customer-concentration-70-2026-06-02]] — NVDA 客户集中度 70% 红线已破（穿透 80%）+ 资金回路
+- [[摘要-coreweave-duration-mismatch-2026-06-03]] — CoreWeave 久期错配 + DDTL 4.0 投资级 + 1999 光纤泡沫同构
+
+### AI 服务器电容与液冷（批次 5）
+- [[摘要-ai-server-capacitor-domestic-2026-06-01]] — AI 服务器电容国产替代东阳光 + 牛角型/MLPC + HVDC 用量
+- [[摘要-japan-capacitor-na-csp-progress-2026-06-01]] — 武藏 LIC vs EDLC + Sidecar 方案 + GB300 起需求
+- [[摘要-japan-capacitor-cap-import-2026-06-03]] — 日系电容北美 CSP 导入流程 + MSFT/Meta/NVDA/GOOG 推进
+- [[摘要-shenglan-connector-liquid-cooling-2026-06-01]] — 胜蓝连接器/液冷接头 + 富士康 800A 铜排
+- [[摘要-liquid-cooling-supply-chain-2026-06-03]] — 申菱液冷一次侧 + 干冷器 ¥7-9 亿 vs 冷却塔 ¥13 亿
+
+### AI 服务器 MLCC（批次 5）
+- [[摘要-mlcc-rare-earth-supply-gap-2026-06-01]] — 稀土改性壁垒 + 2026 K 型分化 + 村田/三星份额
+- [[摘要-mlcc-tech-supply-gap-2026-06-01]] — 宇阳调研 AI 单机量价 + 国瓷粉/叠层机/研发瓶颈
+- [[摘要-mlcc-domestic-substitute-2026-06-02]] — MLCC 6 月更新 高容壁垒 + 16 个月扩产周期 + 0805→0402→0201
+- [[摘要-guoci-material-mlcc-2026-06-02]] — 国瓷材料 MLCC 介质粉 + 球硅 + 蜂窝陶瓷
+- [[摘要-mlcc-distributor-2026-06-03]] — 宇阳/微容竞争格局 + 三星贴牌
+- [[摘要-mlcc-domestic-progress-2026-06-04]] — MLCC（2）AI 单机用量 + 三次电源 80% + 转产路径
+
+### 光纤与传输（批次 5）
+- [[摘要-optical-fiber-corning-tongding-2026-06-03]] — 通鼎+康宁长协 + 韶关 600 吨扩产
+
+### 重读经典 / 投资方法论
+- [[摘要-munger-relearn-1-2026-06-02]] — 重读芒格（一）行业增长好但股东不赚钱
+- [[摘要-munger-relearn-3-2026-06-02]] — 重读芒格（三）份额是护城河还是毒药
+
+### 具身智能（批次 5）
+- [[摘要-unitree-ipo-six-questions-2026-06-02]] — 宇树科技 IPO + VLA + 留管理层六问
+
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
 - [[摘要-semi-test-equipment-jingzhida-2026-06-05]] — 精智达老化炉 + 9G 测试机进展
@@ -243,6 +284,7 @@
 
 ### 投资框架与方法论
 - [[Beta_Alpha锚点框架]] — 定价锚点应锚定内生物理约束 (Alpha) 而非外生周期变量 (Beta)
+- [[芒格思维模型]] — 需求真实 ≠ 利润真实；规模 ≠ 护城河；行业长大后钱归谁
 
 ### 电源与被动元件
 - [[DRMOS]] — Driver + MOSFET 集成模块：AI 服务器主板供电的物理刚性核心

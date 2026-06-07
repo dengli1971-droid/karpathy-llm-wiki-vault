@@ -2,6 +2,52 @@
 
 ---
 
+## [2026-06-07] ingest | AI 与云计算批次 5 · 6/01-6/04 共 25 篇（part 1/2）
+
+### 工作概览
+batch 5 收尾：35 篇 AI 主题分两轮跑。**Part 1（本次提交）**：6/01 9 篇（电容/MLCC/云/大模型/搜索/连接器/腾讯 Agent）+ 6/02 6 篇（MLCC/NVDA 集中度/国瓷/宇树 IPO/芒格 1+3）+ 6/03 9 篇（联想 AI 服务器/AceCamp/CW/MLCC/Token/光纤/谷歌搜索/日系电容/液冷）+ 6/04 1 篇（MLCC 6 月（2））。
+
+### 新增 sources（25 个）
+- [[摘要-ai-server-capacitor-domestic-2026-06-01]]
+- [[摘要-mlcc-rare-earth-supply-gap-2026-06-01]]
+- [[摘要-mlcc-tech-supply-gap-2026-06-01]]
+- [[摘要-internet-cloud-pricing-2026-06-01]]
+- [[摘要-bytedance-model-competition-2026-06-01]]
+- [[摘要-japan-capacitor-na-csp-progress-2026-06-01]]
+- [[摘要-shenglan-connector-liquid-cooling-2026-06-01]]
+- [[摘要-google-gemini35-allin-coding-2026-06-01]]
+- [[摘要-tencent-workbuddy-codebuddy-2026-06-01]]
+- [[摘要-mlcc-domestic-substitute-2026-06-02]]
+- [[摘要-nvda-customer-concentration-70-2026-06-02]]
+- [[摘要-guoci-material-mlcc-2026-06-02]]
+- [[摘要-unitree-ipo-six-questions-2026-06-02]]
+- [[摘要-munger-relearn-1-2026-06-02]]
+- [[摘要-munger-relearn-3-2026-06-02]]
+- [[摘要-ai-server-market-size-2026-06-03]]
+- [[摘要-acecamp-custom-kb-api-2026-06-03]]
+- [[摘要-coreweave-duration-mismatch-2026-06-03]]
+- [[摘要-mlcc-distributor-2026-06-03]]
+- [[摘要-token-pricing-tier-2026-06-03]]
+- [[摘要-optical-fiber-corning-tongding-2026-06-03]]
+- [[摘要-google-search-gemini-agent-2026-06-03]]
+- [[摘要-japan-capacitor-cap-import-2026-06-03]]
+- [[摘要-liquid-cooling-supply-chain-2026-06-03]]
+- [[摘要-mlcc-domestic-progress-2026-06-04]]
+
+### 新增 concepts（1 个）
+- [[芒格思维模型]] — 业务侧 Alpha 识别框架（与 [[Beta_Alpha锚点框架]] 互补）
+
+### index.md 新增
+新增 9 个二级分类：AI 大模型生态与 B 端商业化 / 云厂商与算力 Token 经济 / AI 资本结构与系统性风险 / AI 服务器电容与液冷（批次 5）/ AI 服务器 MLCC（批次 5）/ 光纤与传输（批次 5）/ 重读经典 投资方法论 / 具身智能（批次 5）
+
+### 归档
+25 篇 → `raw/09-archive/AI与云计算/`
+
+### 进度
+25/35，剩余 10 篇（6/04 剩 3 + 6/05 4 + 6/06 3 + 6/07 5（实际 6/07 暂无 AI 新文件，6/05-06 共 7 篇））。半导体 84 + 光通信 41 + AI 25 = **150/161** 累计。
+
+---
+
 ## [2026-06-07] ingest | 光通信批次 4 · 6/04-6/07 共 14 篇（28-41/41，完成）
 
 ### 工作概览
