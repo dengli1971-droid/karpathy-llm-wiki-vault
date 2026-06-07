@@ -26,6 +26,13 @@
 - [[摘要-ptfe-strategic-material-2026-06-02]] — PTFE 从大宗品到战略材料的再定价
 - [[摘要-ccl-rubin-glass-fiber-2026-06-01]] — CCL 大厂 Rubin 平台与二代玻璃布
 - [[摘要-encapsulation-equipment-towa-2026-06-04]] — 塑封设备 C/T-molding TOWA 国产替代
+- [[摘要-mlcc-fall-relearn-2026-06-05]] — MLCC 踏空再学习（卖方三段叙事 + 产能瓶颈 + 镍粉/陶瓷粉/离型膜全链）
+- [[摘要-ai-psu-hvdc-google-2026-06-05]] — AI 电源 PSU/HVDC 谷歌爬坡 + 国产替代拉货
+- [[摘要-rubin-power-chain-2026-06-05]] — Rubin 18.3kW 电源链深度（价值量大增）
+- [[摘要-psu-power-architecture-2026-06-05]] — PSU 功率器件架构演进（GaN/SiC/转换层级）
+- [[摘要-power-chip-drmos-fivr-2026-06-05]] — DrMOS 格局 + FIVR 趋势 + SST 带动
+- [[摘要-sic-idm-2026-06-05]] — SiC IDM 龙头 服务器电源 + 涨价持续性
+- [[摘要-server-cooling-rubin-2026-06-05]] — 服务器散热 Rubin 石墨烯 TIM + 微通道
 
 ### CPU 与 ARM 算力底座
 - [[摘要-cpu-pricing-competitive-2026-06-01]] — CPU 涨价 + 各家竞争优势对比（AMD 实际涨 40-50%）
@@ -40,6 +47,7 @@
 ### 存储与 HBM
 - [[摘要-dram-nand-pricing-2026-06-01]] — DRAM/NAND 价格强周期与长协机制
 - [[摘要-korea-strike-cxmt-ipo-2026-06-01]] — 韩国三星罢工与长鑫上市
+- [[摘要-3d-dram-guangyu-xinchen-2026-06-05]] — 光宇芯辰 3D DRAM 存算一体端侧 AI
 
 ### 大模型训练推理范式
 - [[摘要-na-llm-pre-vs-post-training-2026-06-01]] — 北美大模型预训练 vs 后训练策略
@@ -48,16 +56,19 @@
 - [[摘要-glm-coding-iteration-2026-06-01]] — 智谱 GLM Coding 竞争与算力规划
 - [[摘要-cerebras-wafer-scale-vs-lpu-2026-06-01]] — Cerebras 晶圆级 vs LPU 路径对比
 - [[摘要-cerebras-vs-gpu-inference-2026-06-02]] — Cerebras 在推理市场良率与场景
+- [[摘要-llm-pretrain-post-train-2026-06-05]] — 国内大模型 预训练/后训练 算力分配 + 中美差距 + 国内瓶颈
 
 ### ASIC 与 CSP 自研芯片
 - [[摘要-asic-broadcom-openai-google-tpu-2026-06-01]] — 博通视角 OpenAI / TPU / Trainium 项目
 - [[摘要-top-csp-capex-self-chip-2026-06-01]] — 头部 CSP 资本开支与自研芯片
 - [[摘要-top-csp-self-chip-product-2026-06-01]] — 芯原视角 CSP 自研产品
 - [[摘要-na-asic-3-qualcomm-npu-2026-06-04]] — 高通 AI200/AI250 NPU 与端侧 AI 拐点
+- [[摘要-qualcomm-aws-ai200-trainium-2026-06-05]] — 高通 AWS AI200 + Marvell TPU v9 + OpenAI ASIC + MAIA200 + EMIB
 
 ### 先进封装与玻璃基板
 - [[摘要-tsmc-cowos-soic-glass-2026-06-02]] — 台积电 CoWoS 产能外包 + SOIC 客户更新
 - [[摘要-glass-substrate-interposer-2026-06-01]] — 玻璃基板渗透节奏
+- [[摘要-intel-18a-emib-rubin-ultra-2026-06-05]] — Intel 18A + EMIB-T 玻璃基板支撑 Rubin Ultra 四 Die 合封
 
 ### 光通信与保偏光纤
 - [[摘要-pm-fiber-corning-oem-2026-06-01]] — AI 基建驱动保偏光纤供需失衡 + 康宁 OEM 代工
@@ -65,6 +76,8 @@
 
 ### 测试设备
 - [[摘要-ai-chip-tester-changchuan-advantest-2026-06-01]] — AI 芯片测试机定价良率 + 长川 vs 爱德万
+- [[摘要-semi-test-equipment-jingzhida-2026-06-05]] — 精智达老化炉 + 9G 测试机进展
+- [[摘要-semi-test-equipment-comprehensive-2026-06-05]] — 测试设备综合 海外主导 + 国产替代分领域分阶段
 
 ### 消费电子
 - [[摘要-xiaomi-storage-pricing-impact-2026-06-04]] — 小米 存储涨价传导 + 汽车毛利 + AIoT 2026 展望

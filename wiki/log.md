@@ -1107,6 +1107,23 @@ Vera Rubin Ultra 机柜：单台 648 个 3.2T NPO 光引擎
 
 ---
 
+## [2026-06-07] ingest | 批量 semi 批次 3 第 2 段（6/05 共 13 篇）
+
+- **完成 [23/28]**: 6/05 全部 13 篇归档
+- **新增 sources（13 个）**:
+  - 大模型/3D DRAM：3d-dram-guangyu-xinchen / llm-pretrain-post-train
+  - 电源（密集）：ai-psu-hvdc-google / rubin-power-chain / psu-power-architecture / power-chip-drmos-fivr
+  - SiC：sic-idm
+  - MLCC：mlcc-fall-relearn
+  - 封装：intel-18a-emib-rubin-ultra
+  - ASIC/Neocloud：qualcomm-aws-ai200-trainium
+  - 测试设备：semi-test-equipment-jingzhida / semi-test-equipment-comprehensive
+  - 散热：server-cooling-rubin
+- **新增 concepts（0 个）**：复用现有
+- **冲突**: 无
+
+---
+
 ## [2026-06-07] ingest | 批量 semi 批次 3 第 1 段（6/04 共 10 篇）
 
 - **触发**: PM 委托续跑 batch 3 ingest 6/04-6/07 共 28 篇半导体
